@@ -2,7 +2,7 @@
 
 
 > ### Instructions:
-Read the JSON file/URL and return the place and magnitude of earthquakes greater than 1.0 using Python.
+Read the JSON file/URL and return the place and magnitude of earthquakes greater than 1.0 using Julia.
 
 > ### Technical Specs:
 - IDE - PyCharm 2019.1
